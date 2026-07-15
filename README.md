@@ -21,4 +21,4 @@ This project predicts Apple's closing stock price using Linear Regression.
 - Scikit-learn
 
 Developed by:
-Catherin Jesintha
+Catherin Jesintha J 
